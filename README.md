@@ -1,11 +1,35 @@
-- 👋 Hi, I’m Piuli Biswas
-- 👀 I’m interested in exploring new challenges and things
-- 🌱 I’m currently learning AI/ML and C language
-- 📫 How to reach me piulibiswas34@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: 
+### Hi there 👋 I'm Piuli!
 
-<!---
-iampiuli/iampiuli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 First-year B.Tech student in CSE (AI/ML) | 💻 Future software engineer in the making  
+🔭 Currently learning **Java** and **Web Development** 
+🌱 Exploring the world of **AI/ML** one project (and error) at a time  
+🎯 Goal: Build meaningful tech that solves real-world problems  
+⚡ Fun fact: I debug life almost as much as I debug code 😄  
+
+---
+
+🧠 I'm into:
+- Frontend & Backend Web Dev (HTML, CSS, JS, Java)
+- Beginner-level AI/ML concepts
+- Exploring open-source and hackathons
+
+---
+
+🛠️ Tech Stack:
+Languages: Java, C, Python (basics), HTML/CSS, JavaScript
+Tools: VS Code, Git/GitHub, Figma, Canva
+Learning: React.js, Node.js, APIs, MongoDB
+
+---
+
+📈 Currently:
+- 🌟 Participating in Hack4Bengal 4.0  
+- 🚧 Building mini-projects to sharpen my web dev skills  
+- 💡 Looking for opportunities to collaborate, learn & contribute
+
+---
+
+📫 Let’s connect!  
+[LinkTree] (https://linktr.ee/iampiuli)
+
+Thanks for stopping by! 💜
