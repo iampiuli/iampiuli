@@ -23,7 +23,7 @@ Learning: React.js, Node.js, APIs, MongoDB
 ---
 
 📈 Currently:
-- 🌟 Participating in Hack4Bengal 4.0  
+- 🌟 Participating in Hack4Bengal 4.0 , HexaFalls
 - 🚧 Building mini-projects to sharpen my web dev skills  
 - 💡 Looking for opportunities to collaborate, learn & contribute
 
