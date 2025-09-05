@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Piuli!
 
-🚀 First-year B.Tech student in CSE (AI/ML) | 💻 Future software engineer in the making  
+🚀 Second-year B.Tech student in CSE (AI/ML) | 💻 Future software engineer in the making  
 🔭 Currently learning **Java** and **Web Development** 
 🌱 Exploring the world of **AI/ML** one project (and error) at a time  
 🎯 Goal: Build meaningful tech that solves real-world problems  
