@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Piuli!
 
-🚀 Second-year B.Tech student in CSE (AI/ML) | 💻 Future software engineer in the making  
+🚀 Second-year B.Tech student in CSE (AI/ML) | 
 🔭 Currently learning **Java** and **Web Development** 
 🌱 Exploring the world of **AI/ML** one project (and error) at a time  
 🎯 Goal: Build meaningful tech that solves real-world problems  
@@ -23,6 +23,6 @@ Learning: React.js, Node.js, APIs, MongoDB
 ---
 
 📫 Let’s connect!  
-[LinkTree] (https://linktr.ee/iampiuli)
+https://linktr.ee/iampiuli
 
 Thanks for stopping by! 💜
