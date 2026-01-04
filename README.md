@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Piuli!
 
-🚀 Second-year B.Tech student in CSE (AI/ML) | 
-🔭 Currently learning **Java** and **Web Development** 
+🚀 Second-year B.Tech student in CSE (AI/ML) 
+🔭 Currently learning **Web Development** 
 🌱 Exploring the world of **AI/ML** one project (and error) at a time  
 🎯 Goal: Build meaningful tech that solves real-world problems  
 ⚡ Fun fact: I debug life almost as much as I debug code 😄  
